@@ -73,7 +73,9 @@ Check if the installation was successful by typing `java --version` in a new ter
   Or for other versions go to: [download page](https://sumo.dlr.de/docs/Downloads.php)
   
   **IMPORTANT:** Don't forget to set environment variable **SUMO_HOME**:
+  
   ![Environment variable SUMO_HOME](fig/sumo_ins.png)
+  
 </details>
 
 <details>
