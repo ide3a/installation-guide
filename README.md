@@ -69,7 +69,8 @@ Check if the installation was successful by typing `java --version` in a new ter
 <details>
   <summary>Install on Windows</summary>
   
-  Download [SUMO](https://sumo.dlr.de/releases/1.14.1/sumo-win64-1.14.1.msi) and install as usual. (Or for other versions go to: [download page](https://sumo.dlr.de/docs/Downloads.php))
+  Download [SUMO](https://sumo.dlr.de/releases/1.14.1/sumo-win64-1.14.1.msi) and install as usual. 
+  Or for other versions go to: [download page](https://sumo.dlr.de/docs/Downloads.php)
   
   **IMPORTANT:** Don't forget to set environment variable **SUMO_HOME**:
   ![Environment variable SUMO_HOME](fig/sumo_ins.png)
