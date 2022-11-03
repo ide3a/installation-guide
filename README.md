@@ -113,6 +113,14 @@ python3 -m venv venv              # create venv
 . venv/bin/activate               # activate venv
 pip3 install -r requirements.txt  # install dependencies
 ```
+or depending on your Python installation
+  
+```
+python -m venv venv              # create venv
+. venv/bin/activate               # activate venv
+pip install -r requirements.txt  # install dependencies
+```
+  
 For Windows:
 ```
 .\venv\Scripts\activate           # activate venv
@@ -120,4 +128,4 @@ For Windows:
 You can now start Jupyter lab by running `jupyter lab`, which should open a new browser window/tab. 
 Open `mosaic.ipynb` and sequentially run all cells.
 
-**Congrats!** If all the notebook cells run without errors, you are ready to attend the practical session!
+**Congrats!** If all the notebook cells run without errors, you are ready to attend the practical session
